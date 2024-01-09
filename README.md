@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nadia Gincoff</h1>
+<h1 align="center">Hi 👋, I'm Nadia</h1>
 <h3 align="center">A dedicated Software Developer with over 3 years of hands-on experience in the world of IT. My expertise lies in React.Js, Node.Js, and Typescript. Originally from Argentina and now living in Copenhagen ❤️</h3>
 
 - 🔭 I’m currently collaborating on **Updropp**
