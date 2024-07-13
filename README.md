@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently building **freelance projects**
 
-- 🌱 I’m currently learning **Swift** and **DevOps Tecnologies**
+- 🌱 I’m currently learning **DevOps Tecnologies**
 
 - 👨‍💻 Curious about where I've been? Delve into my experiences by visiting my portfolio at [https://nadiagincoff.vercel.app](https://nadiagincoff.vercel.app)
 
