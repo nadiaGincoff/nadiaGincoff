@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadia</h1>
-<h3 align="center">A dedicated Software Developer with over 3 years of hands-on experience in the world of IT. My expertise lies in React.Js, Node.Js, and Typescript. Originally from Argentina and now living in Copenhagen ❤️</h3>
-
-- 🔭 I’m currently building **freelance projects**
-
-- 🌱 I’m currently learning **DevOps Tecnologies**
+<h3 align="center">A dedicated Software Developer with over 3 years of hands-on experience in the world of IT. My expertise lies in React.Js, Node.Js, and Typescript. Originally from Argentina❤️</h3>
 
 - 👨‍💻 Curious about where I've been? Delve into my experiences by visiting my portfolio at [https://nadiagincoff.vercel.app](https://nadiagincoff.vercel.app)
 
